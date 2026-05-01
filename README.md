@@ -22,10 +22,14 @@ compared — Random Forest, Logistic Regression, and a Neural Network.
 | Model | AUC |
 |---|---|
 | Random Forest | 1.000 |
-| Neural Network | 0.982 |
-| Logistic Regression | 0.965 |
+| Neural Network | 0.9852 |
+| Logistic Regression | 0.9692 |
 
 ## Risk map
+<img width="1989" height="1068" alt="malaria_risk_map_kampala" src="https://github.com/user-attachments/assets/0e25ac71-8b0b-4ed9-acd6-ff166fbf77d1" />
+<img width="1256" height="676" alt="image" src="https://github.com/user-attachments/assets/74b43602-6864-45ab-8c58-1b2decef2b32" />
+
+
 The final output classifies every pixel in Kampala into three tiers:
 - **Low risk** — high elevation, far from water
 - **Medium risk** — transitional zones
