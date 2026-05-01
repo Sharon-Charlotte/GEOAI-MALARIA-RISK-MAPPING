@@ -2,7 +2,7 @@
 ## Overview
 This project uses machine learning and geospatial analysis to map
 malaria risk across Kampala district, Uganda. Three models are
-compared — Random Forest, Logistic Regression, and a Neural Network.
+compared ; Random Forest, Logistic Regression, and a Neural Network.
 
 ## Data used
 | Layer | Source | Purpose |
