@@ -1,4 +1,4 @@
-# GEOAI-MALARIA-RISK-MAPPING
+# GEOAI-MALARIA-RISK-MAPPING  
 ## Overview
 This project uses machine learning and geospatial analysis to map
 malaria risk across Kampala district, Uganda. Three models are
